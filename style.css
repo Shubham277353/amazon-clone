@@ -27,7 +27,7 @@
   padding: 2px;
 }
 .logo {
-  background-image: url(/images/amazon_logo.png);
+  background-image: url(/amazon-clone/images/amazon_logo.png);
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -113,7 +113,7 @@
 .lang-icon {
   height: 16px;
   width: 21px;
-  background-image: url(/images/usaflag.png);
+  background-image: url(/amazon-clone/images/usaflag.png);
   background-size: cover;
 }
 
@@ -171,7 +171,7 @@ span {
 
 .hero-section{
   height: 350px;
-  background-image: url(/images/hero_image.jpg);
+  background-image: url(/amazon-clone/images/hero_image.jpg);
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -297,7 +297,7 @@ footer{
 }
 
 .logo{
-  background-image: url(/images/amazon_logo.png);
+  background-image: url(/amazon-clone/images/amazon_logo.png);
   background-size: cover;
   height: 50px;
   width: 100px;
